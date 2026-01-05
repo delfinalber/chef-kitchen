@@ -1,0 +1,10 @@
+name 'wordpress-lamp'
+maintainer 'Delfinalberto'
+maintainer_email 'delfinalber@example.com'
+license 'All Rights Reserved'
+description 'Installs/Configures WordPress with LAMP stack'
+version '0.1.0'
+chef_version '>= 14.0'
+
+supports 'ubuntu', '>= 14.04'
+supports 'centos', '>= 6.0'
