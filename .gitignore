@@ -1,0 +1,5 @@
+*.box
+.venv/
+.kitchen/
+TRABAJO-1/puppetMaster/vendor/
+wordpress-lamp/test/
